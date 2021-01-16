@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-😄 This is Harry Zhou
-🔭 A Software Engineering Student of BJTU
-🔖 A Coder, Photographer, Basketball Lover.
-🌱 I’m currently learning AI, Linux and sooooo on
+- 😄 This is Harry Zhou
+- 🔭 A Software Engineering Student of BJTU
+- 🔖 A Coder, Photographer, Basketball Lover.
+- 🌱 I’m currently learning AI, Linux and sooooo on
 
-⚡ So many things to learn, keep moving bro！！
+- ⚡ So many things to learn, keep moving bro！！
 
 <!--
 **HarryZhou-618/HarryZhou-618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
