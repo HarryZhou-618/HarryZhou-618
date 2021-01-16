@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 This is Harry Zhou\n
+- 😄 This is Harry Zhou<br>
 - 🔭 A Software Engineering Student of BJTU
 - 🔖 A Coder, Photographer, Basketball Lover.
 - 🌱 I’m currently learning AI, Linux and sooooo on
