@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-😄 This is Harry Zhou<br>
-🔭 A Software Engineering Student of BJTU<br>
+😄 This is Harry Zhou.<br>
+👨‍🎓 Got Software Engineering Bachelors Degree in BJTU.<br>
+🔭 Currently pursuing a master degree at UCAS (ISCAS).<br>
 🔖 A Coder, Photographer, Basketball Lover.<br>
-🌱 I’m currently learning AI, Linux and sooooo on<br><br>
+🌱 I’m currently learning AI, RPA and sooooo on<br><br>
 ⚡ So many things to learn, keep moving bro！！
 
 <!--
